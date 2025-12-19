@@ -5,12 +5,14 @@ import viteLogo from '/vite.svg'
 import './App.css'
 // import NavigationBar from './Component/NavigationBar'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import HeroSection from './Component/HeroSection'
-import HireExpert from './Component/HireExpert'
+import HeroSection from './components/HeroSection'
+import HireExpert from './components/HireExpert'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import HowWork from './Component/HowWork'
-import HireTeam from './Component/HireTeam'
+import HowWork from './components/HowWork'
+import HireTeam from './components/HireTeam'
+
+
 
 
   
