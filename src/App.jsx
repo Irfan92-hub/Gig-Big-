@@ -9,13 +9,13 @@
 // import "slick-carousel/slick/slick-theme.css";
 // import HowWork from './Component/HowWork'
 // import HireTeam from './Component/HireTeam'
-import NavigationBar from './Component/NavigationBar'
+import NavigationBar from './components/NavigationBar'
 import { Routes, Route } from "react-router-dom";
 
 import Home from './Home'
-import SignUpPage from './Component/SignUpPage';
-import LoginPage from './Component/LoginPage';
-import LoginSuccessPage from './Component/LoginSuccessPage';
+import SignUpPage from './components/SignUpPage';
+import LoginPage from './components/LoginPage';
+import LoginSuccessPage from './components/LoginSuccessPage';
 import {ToastContainer } from 'react-toastify';
 import "react-toastify/dist/ReactToastify.css";
 
