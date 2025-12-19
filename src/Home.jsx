@@ -12,6 +12,9 @@ import "slick-carousel/slick/slick-theme.css";
 import HowWork from './Component/HowWork'
 import HireTeam from './Component/HireTeam'
 
+
+
+
 const Home = () => {
   return (
    <>
