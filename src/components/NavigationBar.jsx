@@ -40,8 +40,8 @@ const NavigationBar = () => {
               className="me-2 shadow-sm navInput "
               aria-label="Search"
             />
-            <Button  variant="outline-success  login"><Link to="/login">Log In</Link></Button>
-            <Button variant="outline-success navbtn"> <Link  to="/sign-up"> Sign Up</Link></Button>
+            <Button  variant="outline-success  login"><Link to="/login" className='text-underline' style={{color:"black"}}>Log In</Link></Button>
+            <Button variant="outline-success navbtn"> <Link  to="/sign-up" className='text-underline' style={{color:"white"}}> Sign Up</Link></Button>
             <Button variant="outline-success navbtn">As a freelansar</Button>
           </Form>
         </Navbar.Collapse>
@@ -52,3 +52,5 @@ const NavigationBar = () => {
 }
 
 export default NavigationBar
+
+

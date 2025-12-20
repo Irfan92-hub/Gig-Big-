@@ -52,8 +52,13 @@ body {
   padding: 4px 10px !important;
   line-height: 1 !important;
   height: 28px !important;
+  /* text-decoration: none !important; */
 
 }
+.text-underline{
+  text-decoration: none !important;
+}
+
 
 .navbtn {
   background-color: var(--maincolor) !important;
