@@ -11,6 +11,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import HowWork from './components/HowWork'
 import HireTeam from './components/HireTeam'
+import CrativeTeam from './components/CrativeTeam'
 
 
 
@@ -26,6 +27,7 @@ const Home = () => {
 <HireExpert/>
  <HowWork/>
 <HireTeam/>
+<CrativeTeam/>
    </>
   )
 }

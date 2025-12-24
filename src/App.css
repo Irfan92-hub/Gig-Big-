@@ -429,6 +429,18 @@ background: linear-gradient(135deg, #0D7683 0%, #0A3F4A 100%);
     transform: scale(1);
   }
 }
+
+.creative-card {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  /* margin-top: 50px !important; */
+  flex-direction: column;
+  border: 2px solid white;
+  height: 200px !important;
+  border-radius: 20px !important;
+}
+
 /* edit model css end */
 @media(max-width:786px) {
     .hero-text {
